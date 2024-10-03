@@ -8,7 +8,7 @@
 
 ## UX Team Members
 
-* **[Person A](!!!URL to Person A's published portfolio!!!)** - !!!List of Person A's primary contributions!!!
+* **[Max van der Veen](https://github.com/UsabilityEngineering/ux-journal-maxbutevil/)** - !!!List of Person A's primary contributions!!!
 * **[Nicolas Gres](https://github.com/UsabilityEngineering/ux-journal-ngres)** - !!!List of Person B's primary contributions!!!
 * **[Person C](!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
 
