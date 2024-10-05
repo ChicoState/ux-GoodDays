@@ -56,9 +56,10 @@ Findings from heuristic evaluation:
 Through our heuristic evaluation, we identified the need for simplicity and clarity in our desktop app, focusing on ease of use and intuitive flow. Our goal is to design an app that lets users access what they need while minimizing unnecessary elements. We aim to make our desktop app a smooth experience and prevent frustrations.
 
 Key priorities:
-System Status Visibility: Ensure the app is clear and easy to understand, reducing user confusion as much as possible.
+- System Status Visibility: Ensure the app is clear and easy to understand, reducing user confusion as much as possible.
+- Learnability for new users: Provide helpful insights for people who are new to journaling.
 
-Next sprint we will take feedback from the Software Team’s presentation to modify our website to improve these areas.
+Next sprint we will take feedback from the Software Team’s presentation to modify our application to improve these areas.
 
 
 ## Caveats
