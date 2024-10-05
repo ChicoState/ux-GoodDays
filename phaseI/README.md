@@ -2,7 +2,7 @@
 
 ## Introduction
 
-GoodDays is a minimalist daily journaling app. Users log how they feel after each day on a scale from 1 to 5, any activities they did that day, and optionally add written notes or comments. Users will also be able to add and remove custom activities in order to reflect on their daily habits and moods.
+GoodDays is a minimalist daily journaling app that allows users to log their feelings on a scale from 1 to 5 at the end of each day. Users can also record daily activities and optionally add written notes or comments. Additionally, they have the flexibility to add and remove custom activities to reflect on their daily habits and moods.
 
 ## Methods
 
@@ -22,8 +22,20 @@ We identified that a good app has…
 - easy to understand UI 
 - zero confusion between system and real world
 
-App to research: Notion
-Findings from heuristic evaluation 
+App to research: Custom Notion Board
+
+![Figure 1: Calendar overview of the custom Notion board](https://github.com/user-attachments/assets/61d28f5a-c7f8-4895-9743-c40635079736)
+<p align="center">
+  Figure 1: Calendar overview of the custom Notion board
+</p>
+
+![Figure 2: Journal entry featuring custom activities and mood selection](https://github.com/user-attachments/assets/cd9e4fd6-8476-4888-a6c0-0a827940edf5)
+<p align="center">
+  Figure 2: Journal entry featuring custom activities and mood selection
+</p>
+
+
+Findings from heuristic evaluation:
 
 |                                                         |                   |                                                                                                                                                                                  |
 | ------------------------------------------------------- | ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
