@@ -2,20 +2,53 @@
 
 ## Introduction
 
-!!! Describe the general problem that the project is trying to solve !!!
+GoodDays is a minimalist daily journaling app. Users log how they feel after each day on a scale from 1 to 5, any activities they did that day, and optionally add written notes or comments. Users will also be able to add and remove custom activities in order to reflect on their daily habits and moods.
 
 ## Methods
 
-!!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. !!!
+In order to gain a better understanding of how to facilitate the best user experience possible, we used several research methods.
+
+First, we used competitive analysis, personally using several competing apps and recording our experiences. Unfortunately, the competitors we analyzed initially were mobile apps, and our software engineering team later decided to make a desktop app, so many of our early findings no longer apply. We accounted for this with further research, using heuristic evaluation to analyze Notion, a desktop notes/journaling app. We used Nielsen’s list of 10 heuristics, rating Notion on a scale of 1-10 for each, to identify strengths that we can learn from and weaknesses where improvements could be made.
+
+We also analyzed several personas and scenarios to learn more about our users’ needs. Though we believe that GoodDays is appealing to a very wide audience, we focused on a few of the biggest reasons why users would be drawn to GoodDays, rather than another journaling method. A key advantage of GoodDays is its convenience, so people who feel busy or overwhelmed could definitely benefit from it. We also believe that users who are struggling with a personal issue could get a lot out of GoodDays, since it would give them a way to organize their thoughts and track their progress over time. Our personas were chosen to reflect these two key groups.
+
+To conclude this phase of research, we made some preliminary UI sketches for a minimum viable product.
 
 ## Findings
 
-!!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!
+Two of our personas are busy with school or work and are simply looking for an easy journaling experience, while the third is struggling with a recent breakup and looking for a way to organize his thoughts. Our personas and scenarios taught us that sometimes our users will want to include lots of detail in their entries, while others are pressed for time and will just want to include their mood and maybe an activity or two. We should ensure that the UI caters to both of these use cases.
+
+We identified that a good app has…
+- easy to understand UI 
+- zero confusion between system and real world
+
+App to research: Notion
+Findings from heuristic evaluation 
+
+|                                                         |                   |                                                                                                                                                                                  |
+| ------------------------------------------------------- | ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Heuristic                                               | Score (out of 10) | Reasoning                                                                                                                                                                        |
+| Visibility of System Status                             | 5                 | no preview of the mood of the day in the calendar view (e.g. having every day colored by the selected mood) - the general UI however feels responsive and provides good feedback |
+| Match between system and real world                     | 9                 | There are no "custom words" that would be confusing. Uses real world analogies like calling new note entities "pages"                                                            |
+| User control and freedom                                | 8                 | Clearly visible cancel buttons and actions. It would be hard to have an accident. The menu drops down and it's very clear what each button does.                                 |
+| Consistency and standards                               | 9                 | Follows standard UI patterns for note apps. There is not much room for confusion                                                                                                 |
+| Error prevention                                        | 10                | perfect undo/redo implementation                                                                                                                                                 |
+| Recognition rather than recall                          | 8                 | Clear use of iconography                                                                                                                                                         |
+| Flexibility and efficiency of use                       | 7                 | Requires a bit of customization to make it compatible with our use case                                                                                                          |
+| Aesthetic and minimalist design                         | 8                 | Clean design language with modern UI elements 8                                                                                                                                  |
+| Help users recognize, diagnose, and recover from errors | 7                 | Good error highlighting, however it is not possible to enforce constraints on page properties (e.g. having to choose a mode)                                                     |
+| Help and documentation                                  | 8                 | Notion AI feature to ask questions, create drafts, brainstorm ideas, summarize...                                                                                                |
 
 ## Conclusions
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
+Through our heuristic evaluation, we identified the need for simplicity and clarity in our desktop app, focusing on ease of use and intuitive flow. Our goal is to design an app that lets users access what they need while minimizing unnecessary elements. We aim to make our desktop app a smooth experience and prevent frustrations.
+
+Key priorities:
+System Status Visibility: Ensure the app is clear and easy to understand, reducing user confusion as much as possible.
+
+Next sprint we will take feedback from the Software Team’s presentation to modify our website to improve these areas.
+
 
 ## Caveats
 
-!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
+Our research methods make sense given the time and resource constraints, but unfortunately they’re mostly based on theory, rather than the experiences of actual users. Our analysis would be more comprehensive if we had the opportunity to do research involving potential users other than ourselves.
