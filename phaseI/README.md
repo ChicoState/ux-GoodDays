@@ -8,7 +8,7 @@ GoodDays is a minimalist daily journaling app that allows users to log their fee
 
 In order to gain a better understanding of how to facilitate the best user experience possible, we used several research methods.
 
-First, we used competitive analysis, personally using several competing apps and recording our experiences. Unfortunately, the competitors we analyzed initially were mobile apps, and our software engineering team later decided to make a desktop app, so many of our early findings no longer apply. We accounted for this with further research, using heuristic evaluation to analyze Notion, a desktop notes/journaling app. We used Nielsen’s list of 10 heuristics, rating Notion on a scale of 1-10 for each, to identify strengths that we can learn from and weaknesses where improvements could be made.
+First, we used competitive analysis[^competitive-analysis], personally using several competing apps and recording our experiences. Unfortunately, the competitors we analyzed initially were mobile apps, and our software engineering team later decided to make a desktop app, so many of our early findings no longer apply. We accounted for this with further research, using heuristic evaluation to analyze Notion, a desktop notes/journaling app. We used Nielsen’s list of 10 heuristics[^nielsen-1994], rating Notion on a scale of 1-10 for each, to identify strengths that we can learn from and weaknesses where improvements could be made.
 
 We also analyzed several personas and scenarios to learn more about our users’ needs. Though we believe that GoodDays is appealing to a very wide audience, we focused on a few of the biggest reasons why users would be drawn to GoodDays, rather than another journaling method. A key advantage of GoodDays is its convenience, so people who feel busy or overwhelmed could definitely benefit from it. We also believe that users who are struggling with a personal issue could get a lot out of GoodDays, since it would give them a way to organize their thoughts and track their progress over time. Our personas were chosen to reflect these two key groups.
 
@@ -16,7 +16,7 @@ To conclude this phase of research, we made some preliminary UI sketches for a m
 
 ## Findings
 
-Two of our personas are busy with school or work and are simply looking for an easy journaling experience, while the third is struggling with a recent breakup and looking for a way to organize his thoughts. Our personas and scenarios taught us that sometimes our users will want to include lots of detail in their entries, while others are pressed for time and will just want to include their mood and maybe an activity or two. We should ensure that the UI caters to both of these use cases.
+Two of our personas[^personas] are busy with school or work and are simply looking for an easy journaling experience, while the third is struggling with a recent breakup and looking for a way to organize his thoughts. Our personas and scenarios taught us that sometimes our users will want to include lots of detail in their entries, while others are pressed for time and will just want to include their mood and maybe an activity or two. We should ensure that the UI caters to both of these use cases.
 
 We identified that a good app has…
 - easy to understand UI 
@@ -64,3 +64,12 @@ Next sprint we will take feedback from the Software Team’s presentation to mod
 ## Caveats
 
 Our research methods make sense given the time and resource constraints, but unfortunately they’re mostly based on theory, rather than the experiences of actual users. Our analysis would be more comprehensive if we had the opportunity to do research involving potential users other than ourselves.
+
+
+## References
+
+[^competitive-analysis]: “5.3 Competitive Analysis - Entrepreneurship | OpenStax.” Accessed September 5, 2024. https://openstax.org/books/entrepreneurship/pages/5-3-competitive-analysis.
+
+[^nielsen-1994]: Nielsen, Jakob, and Robert L. Mack, eds. Usability Inspection Methods. New York: Wiley, 1994.
+
+[^personas]: “Personas.” In The Encyclopedia of Human-Computer Interaction, 2nd ed. Accessed September 12, 2024. https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/personas.
