@@ -4,12 +4,12 @@
 
 <!-- !!!Brief introduction to the project and the problem it is intended to solve!!! -->
 
-
+GoodDays enables users to keep a digital journal of their recent activities. By desinging a desktop journaling app we try to aid our users in reflecting on their days and personal habits.
 
 ## UX Team Members
 
-* **[Max van der Veen](https://github.com/UsabilityEngineering/ux-journal-maxbutevil/)** - !!!List of Person A's primary contributions!!!
-* **[Nicolas Gres](https://github.com/UsabilityEngineering/ux-journal-ngres)** - !!!List of Person B's primary contributions!!!
+* **[Max van der Veen](https://github.com/UsabilityEngineering/ux-journal-maxbutevil/)** - Heuristic Evaluations
+* **[Nicolas Gres](https://github.com/UsabilityEngineering/ux-journal-ngres)** - Executive Summery, Heuristic Evaluations, Markdown Formatting, References
 * **[Person C](!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
 
 # User-Centered Design Artifacts
@@ -25,10 +25,15 @@
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+Our research on the GoodDays journaling app highlighted the demand for free, minimalist journaling software.
+
+- Competitive Analysis identified a market gap for a **minimal** desktop application tailored to journaling.
+- Heuristic Evaluation of a custom [Notion](https://www.notion.so/gres/10b16469034880e590e9e7024b08de15?v=9569263f9390427290fbf03037c3dc3f) board revealed the following insights:
+ - **Visibility of moods**: A colored overview of recorded moods throughout the days would be extremely beneficial.
+ - Easy **selection of actions**: Loggable actions should be easy to identify and customizable during the journaling process.
+ - User **guidance on journal creation**: Integrating tips on the journaling process can be critical for newcomers.
+- [Personas and Scenarios](personas/) highlight the **diverse** user group interested in journaling.
+- Our initial [sketches](sketches/) focus on **mood visualization** and the journal entry creation process.
 
 [Full phase I report](phaseI/)
 
