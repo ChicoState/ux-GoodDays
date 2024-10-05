@@ -24,13 +24,13 @@ We identified that a good app has…
 
 App to research: Custom Notion Board
 
-![Figure 1: Calendar overview of the custom Notion board](https://github.com/user-attachments/assets/61d28f5a-c7f8-4895-9743-c40635079736)
 <p align="center">
+  <img src="https://github.com/user-attachments/assets/61d28f5a-c7f8-4895-9743-c40635079736" />
   Figure 1: Calendar overview of the custom Notion board
 </p>
 
-![Figure 2: Journal entry featuring custom activities and mood selection](https://github.com/user-attachments/assets/cd9e4fd6-8476-4888-a6c0-0a827940edf5)
 <p align="center">
+  <img src="https://github.com/user-attachments/assets/cd9e4fd6-8476-4888-a6c0-0a827940edf5" />
   Figure 2: Journal entry featuring custom activities and mood selection
 </p>
 
