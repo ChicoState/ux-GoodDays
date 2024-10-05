@@ -22,7 +22,7 @@ We identified that a good app has…
 - easy to understand UI 
 - zero confusion between system and real world
 
-App to research: Custom Notion Board
+App to research: [Custom Notion Board](https://gres.notion.site/10b16469034880e590e9e7024b08de15?v=9569263f9390427290fbf03037c3dc3f&pvs=4) (Our board can be accessed via this link for replication purposes.)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/61d28f5a-c7f8-4895-9743-c40635079736" />
