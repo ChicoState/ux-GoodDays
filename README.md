@@ -9,7 +9,7 @@ GoodDays enables users to keep a digital journal of their recent activities. By 
 ## UX Team Members
 
 * **[Max van der Veen](https://github.com/UsabilityEngineering/ux-journal-maxbutevil/)** - Heuristic Evaluations
-* **[Nicolas Gres](https://github.com/UsabilityEngineering/ux-journal-ngres)** - Executive Summery, Heuristic Evaluations, Markdown Formatting, References
+* **[Nicolas Gres](https://github.com/UsabilityEngineering/ux-journal-ngres)** - Executive Summery, Heuristic Evaluations, Figures, References
 * **[Person C](!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
 
 # User-Centered Design Artifacts
