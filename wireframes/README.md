@@ -6,36 +6,29 @@ You can also explore these as an [interactive prototype](https://www.figma.com/p
 
 ## Calender Screen
 
+*Creating a new day log entry.*
 ![](./CalenderScreen_New.png)
 
-*Creating a new day log entry.*
-
+*Editing an existing entry.*
 ![](./CalenderScreen_Edit.png)
 
-*Editing an existing entry.*
-
-![](./CalenderDialogs.png)
-
 *Create/edit/delete an activity.*
+![](./CalenderDialogs.png)
 
 The ⨂ symbols are placeholders for mood and activity emojis or plus/edit/delete icons.
 
 ## Statistics Screen
 
-![](./StatisticScreen.png)
-
 *See statistics for a given month.*
+![](./StatisticScreen.png)
 
 ## Settings Screen
 
-![](./SettingsScreen.svg)
-
 *Edit application settings.*
-
-![](./SettingsDialogs.png)
+![](./SettingsScreen.png)
 
 *Settings dialogs.*
-
-![](./UnlockScreen.png)
+![](./SettingsDialogs.png)
 
 *Unlock screen.*
+![](./UnlockScreen.png)
