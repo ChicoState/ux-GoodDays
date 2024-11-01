@@ -41,13 +41,13 @@ Our research on the GoodDays journaling app highlighted the demand for free, min
 
 **Executive Summary**
 
-- ✍️ We started by making our **initial wireframes**
-- 🧠 We used a **cognitive walkthrough** to gather in-depth feedback from other UI/UX students
-  - 😟 Our wireframes **felt incomplete**. We had focused too much on the main screen, and not enough on the other screens
-  - :triumph: However, users **really liked the main screen**, giving us a good idea of how to proceed
-- 🤝 The software engineering team also gathered **informal feedback** on their prototype
-- :muscle: We then **refined our wireframes** with the feedback in mind, and made them **interactive**
-- ⭐ Ultimately, we gave the software engineering team a much clearer idea of what to implement and how
+- We started by making our [initial wireframes](wireframes/)
+- We used a **cognitive walkthrough** to gather in-depth feedback from other UI/UX students
+  - Our wireframes **felt incomplete**. We had focused too much on the main screen, and not enough on the other screens
+  - However, users **really liked the main screen**, giving us a good idea of how to proceed
+- The software engineering team also gathered **informal feedback** on their prototype
+- We then **refined our wireframes** with the feedback in mind, and made them **interactive**
+- Ultimately, we gave the software engineering team a much clearer idea of what to implement and how
 
 [Full phase II report](phaseII/)
 
