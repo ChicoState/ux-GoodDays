@@ -41,10 +41,13 @@ Our research on the GoodDays journaling app highlighted the demand for free, min
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+- ✍️ We started by making our **initial wireframes**
+- 🧠 We used a **cognitive walkthrough** to gather in-depth feedback from other UI/UX students
+ - 😟 Our wireframes **felt incomplete**. We had focused too much on the main screen, and not enough on the other screens
+ - :triumph: However, users **really liked the main screen**, giving us a good idea of how to proceed
+- 🤝 The software engineering team also gathered **informal feedback** on their prototype
+- :muscle: We then **refined our wireframes** with the feedback in mind, and made them **interactive**
+- ⭐ Ultimately, we gave the software engineering team a much clearer idea of what to implement and how
 
 [Full phase II report](phaseII/)
 
