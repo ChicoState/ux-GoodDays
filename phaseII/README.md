@@ -24,6 +24,19 @@ See the results of these methods in the findings section.
 
 ## Findings
 
+The positive aspects mentioned throughout the Cognitive Walkthroughs primarily highlighted the good discoverability and overview of day logs, which assured us in the current design of our calendar view.
+
+However, three major problems were identified thought the three Cognitive Walkthroughs. 
+(1) The user does not know if his information has been saved due to a lack of feedback. Our design proposes an auto save system, which does not require a specific save button. To increase the learnability and feedback of this system, we propose to instantly update the color of the day entry in the calendar based on the slider value. This enables the user to directly see his changed reflected in the separate calendar view.
+(2) “The slider on the top of the notes doesn’t have an immediate purpose, since neutral doesn’t give an immediate thought” was a common quote thought the walkthroughs. The word “neutral” should be a label for an emotion. In the final product, this would be better identified with the emoji displayed above the label. To avoid any misunderstanding, we added the label “How was your mood?” to the slider input, as well as additional symbols at the different ends of the emotion spectrum.
+(3) The users could not complete certain tasks, since some wireframes were not conceptualized. We solved this problem by full fleshing out our wireframes.
+
+
+![image](https://github.com/user-attachments/assets/bb47408a-2ac1-4f68-a392-8d94bf74cd43)
+<p style="text-align: center;"><i>The initial wireframe for evaluation vs. the refined new log entry screen.</i></p>
+
+The feedback gathered towards the software engineering team prototype mentioned the importance of a statistics screen. Additionally, the focus should be put on the color schema, which is currently out of scope for our wireframes. The identification of a balanced color schema for our spectrum of emotions will be a major task for the following sprint.
+
 ## Conclusions
 
 Our initial wireframes felt partially incomplete. The main page was essentially done, and we received positive feedback on it, but many of the other pages and features were missing. Since then, we’ve come a long way, adding a settings page, a metrics page, and interactivity. However, we haven’t done any research since improving the wireframes. Gathering more feedback would be a logical next step.
