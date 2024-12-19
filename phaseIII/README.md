@@ -29,7 +29,7 @@ Participants were asked to “think out loud”, explaining their thought proces
 _T1_ is meant an easy task to make the user comfortable with the Figma prototype setup. <br />
 _T2_ builds upon T1 in a more sophisticated way, letting the user complete a more complex flow. <br />
 _T3_ explores the possibility of multiple pathways of accessing the current day (pressing on the today button or using the calendar view) as well as using the mood slider, which is one of our core capabilities. <br />
-_T4_ tries to explore the statistical features of the application. </br>
+_T4_ tries to explore the statistical features of the application. <br />
 _T5_ and T6 round up the usability evaluation by testing out the security features of the application. <br />
 
 Finally, we asked the participants a few closing questions about their overall experience:
