@@ -15,22 +15,22 @@ We started by asking some questions about the participants’ previous journalin
 
 Our usability evaluation centers around six tasks using our interactive Figma prototype:
 
-_T1_ _Looking through the activity options, you feel like something is missing. Try to open the create activity dialog._</br>
-_T2_ _Try to delete the Gym activity._ </br>
-_T3_ _Today is October 26th, and you want to make a new entry. Try to access the journal entry for October 26th, then select a mood._</br>
-_T4_ _You are curious about how your month has been. Find a way to see your most common mood throughout October._</br>
-_T5_ _You want to keep your journal secure. Find a way to set a password so you can lock the application._</br>
+_T1_ _Looking through the activity options, you feel like something is missing. Try to open the create activity dialog._ <br />
+_T2_ _Try to delete the Gym activity._ <br />
+_T3_ _Today is October 26th, and you want to make a new entry. Try to access the journal entry for October 26th, then select a mood._ <br />
+_T4_ _You are curious about how your month has been. Find a way to see your most common mood throughout October._ <br />
+_T5_ _You want to keep your journal secure. Find a way to set a password so you can lock the application._ <br />
 _T6_ _Now that you have added a password, lock the app._
 
 After they attempted each task, we asked the following question: “On a scale from 1 to 5, where 1 is “very difficult” and 5 is “very easy”, how would you rate your experience completing this task?” We also asked them to explain the reasoning behind their choice.
 
 Participants were asked to “think out loud”, explaining their thought process as they carried out each task.
 
-_T1_ is meant an easy task to make the user comfortable with the Figma prototype setup. </br>
-_T2_ builds upon T1 in a more sophisticated way, letting the user complete a more complex flow.</br>
-_T3_ explores the possibility of multiple pathways of accessing the current day (pressing on the today button or using the calendar view) as well as using the mood slider, which is one of our core capabilities. </br>
+_T1_ is meant an easy task to make the user comfortable with the Figma prototype setup. <br />
+_T2_ builds upon T1 in a more sophisticated way, letting the user complete a more complex flow. <br />
+_T3_ explores the possibility of multiple pathways of accessing the current day (pressing on the today button or using the calendar view) as well as using the mood slider, which is one of our core capabilities. <br />
 _T4_ tries to explore the statistical features of the application. </br>
-_T5_ and T6 round up the usability evaluation by testing out the security features of the application. </br>
+_T5_ and T6 round up the usability evaluation by testing out the security features of the application. <br />
 
 Finally, we asked the participants a few closing questions about their overall experience:
 1. _How would you rate your experience completing the tasks? Use the same 1 to 5 scale, where 1 is “terrible” and 5 is “great”._
