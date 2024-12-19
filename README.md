@@ -9,8 +9,8 @@ GoodDays enables users to keep a digital journal of their recent activities. By 
 ## UX Team Members
 
 * **[Max van der Veen](https://github.com/UsabilityEngineering/ux-journal-maxbutevil/)** - !!!List of Person A's primary contributions!!!
-* **[Nicolas Gres](https://github.com/UsabilityEngineering/ux-journal-ngres)** - Executive Summery, Heuristic Evaluations (part of the table), Figures, References
-* **[Person C](!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
+* **[Nicolas Gres](https://github.com/UsabilityEngineering/ux-journal-ngres)** - Executive Summery, Heuristic Evaluations (part of the table), Figures, References, Figma Calender Screens
+* **[Grant Meyer](!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
 
 # User-Centered Design Artifacts
  
@@ -19,7 +19,7 @@ GoodDays enables users to keep a digital journal of their recent activities. By 
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
 * [Wireframes](wireframes/)
-* [Prototype](#)
+* [Prototype](https://www.figma.com/proto/MV15qgSMwoUglQ5XbrmEDV/Good-Days-Mock-Up?node-id=49-162&starting-point-node-id=49%3A162&t=1n3fUgqVzNShBP2i-1)
 
 # Phase I: Analyzing Users, Competitors, and Initial Designs
 
