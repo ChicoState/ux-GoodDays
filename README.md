@@ -8,7 +8,7 @@ GoodDays enables users to keep a digital journal of their recent activities. By 
 
 ## UX Team Members
 
-* **[Max van der Veen](https://github.com/UsabilityEngineering/ux-journal-maxbutevil/)** - !!!List of Person A's primary contributions!!!
+* **[Max van der Veen](https://github.com/UsabilityEngineering/ux-journal-maxbutevil/)** - Phase I Methods & Caveats, Phase II Intro, Conclusion & Caveats, Phase III Methods, Conclusion & Caveats; Figma Settings Screen
 * **[Nicolas Gres](https://github.com/UsabilityEngineering/ux-journal-ngres)** - Phase I Executive Summery, Heuristic Evaluations, Phase III Methods & Findings, Figma Calender Screens
 * **[Grant Meyer](https://usabilityengineering.github.io/ux-journal-gnmeyer/)** - !!!List of Person C's primary contributions!!!
 
