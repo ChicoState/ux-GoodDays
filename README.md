@@ -55,9 +55,17 @@ Our research on the GoodDays journaling app highlighted the demand for free, min
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+- Developed a [working prototype](https://www.figma.com/proto/MV15qgSMwoUglQ5XbrmEDV/Good-Days-Mock-Up?node-id=49-162&starting-point-node-id=49%3A162&t=1n3fUgqVzNShBP2i-1)
+  - Featuring user navigation
+  - Consistent color scheme
+- Crafted protocols
+  - Wrote user testing scripts
+  - Received **certification** for legal user testing in a research university setting
+- Conducted **live user testing**
+  - _Quantitative_ feature ratings
+  - _Qualitative_ feedback from users
+- **Analyzed data** from live user testing
+  - Primarily improvements for _statistics navigation_ and animated user _feedback_
+  - Set up future developers and UX designers for success
 
 [Full phase III report](phaseIII/)
